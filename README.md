@@ -1,5 +1,4 @@
 <p align="left">I'm Md Atik.</p>
-</br>
 <p align="left">Creating bugs since 2023 and fixing most of them eventually </p>
 
 <h2 align="left">I code with</h2>
