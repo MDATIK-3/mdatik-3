@@ -1,18 +1,6 @@
-<h1 align="left">Hey 👋 What's up?</h1>
-
-###
-
-<p align="left">My name is Md Atik. I am a competitive programmer and a CSE student at Green University of Bangladesh, with a strong focus on problem-solving, algorithmic thinking, and writing efficient, well-structured code.</p>
-
-###
-
-<h2 align="left">About me</h2>
-
-###
-
-<p align="left">✨ Creating bugs since 2023 (and fixing most of them eventually)<br>📚 I'm currently learning Django, and backend system design<br>🎯 Goals: Become a strong problem solver and build production-ready software systems<br>🎲 Fun fact: I enjoy debugging more than writing code because logic never lies</p>
-
-###
+<p align="left">I'm Md Atik.</p>
+</br>
+<p align="left">Creating bugs since 2023 and fixing most of them eventually </p>
 
 <h2 align="left">I code with</h2>
 
