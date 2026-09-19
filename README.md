@@ -1,5 +1,6 @@
-<p align="left">I'm Md Atik.</p>
-<p align="left">Creating bugs since 2023 and fixing most of them eventually </p>
+<p align="left">Hi! I'm Md Atik.</p>
+<p align="left">Developing Web Applications for business solutions & </p>
+<p align="left">Creating bugs since 2023 and fixing most of them eventually. </p>
 
 <h2 align="left">I code with</h2>
 
